@@ -1,0 +1,114 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    color: dimgray;
+}
+
+.name-highlight {
+    color: #EC4C7A;
+    font-weight: 700;
+}
+
+.hire-link {
+    text-decoration: none;
+    background-image: linear-gradient(180deg, #ec4f8f, #ed4b71);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5%;
+}
+
+.half-section {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+
+section {
+    height: 500px;
+    padding-top: 100px;
+}
+
+.half-section img {
+    width: 100%;
+}
+
+.top-banner {
+    background-image: url(images/header-bg.png);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.biography {
+    background-image: url(images/biography-bg.png);
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: right;
+}
+
+.latest-work {
+    text-align: center;
+    background-image: url(images/latest-work-bg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.three {
+    margin: 5% 10%;
+}
+
+.work {
+    width: 30%;
+    float: left;
+    margin-left: 3%;
+}
+
+.work img {
+    width: 100%;
+}
+
+.clients {
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-position: left;
+    background-size: cover;
+}
+
+#cli {
+    padding-bottom: 50px;
+}
+
+#diff-color {
+    color: #4e4c4c;
+    padding: 30px 0;
+}
+
+.reply {
+    margin: 0 20%;
+    height: 150px;
+    background-image: linear-gradient(180deg, #ec4f92, #ed4b72);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.reply p {
+    color: white;
+}
+
+#p1 {
+    padding-top: 30px;
+}
+
+#p2 {
+    font-weight: 700;
+    font-size: 20px;
+}

@@ -93,7 +93,7 @@ section {
 }
 
 .reply {
-    margin: 0 20%;
+    margin: 5% 20%;
     height: 150px;
     background-image: linear-gradient(180deg, #ec4f92, #ed4b72);
     border-radius: 10px;
